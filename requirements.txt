@@ -14,3 +14,4 @@ Jinja2==2.11.1
 google-pasta>=0.1.6
 rake-nltk 
 spacy
+mplcursors
